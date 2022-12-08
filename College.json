@@ -1,0 +1,14 @@
+[
+    {
+        "myName":"amar",
+        "Arrear":1,
+        "totalMark":300,
+        "rating":4
+    },
+    {
+        "myName":"gopi",
+        "Arrear":11,
+        "totalMark":250,
+        "rating":4
+    }
+]
